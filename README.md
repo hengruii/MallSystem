@@ -2,9 +2,9 @@
 
 #### 介绍
 ssm的各种项目源码，带项目的视频教程，非常详细的讲解ssm的开发。
-视频讲解了，视频也是开源的，具体的可以加我微信：
+视频讲解了，视频也是开源的，关注公众号，回复：ssm水果
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0810/111726_e7777c38_7604956.jpeg "1222.jpg")
+![输入图片说明](WebRoot/resource/images/qrcode_for_gh_c0beb5e050be_258_%E7%88%B1%E5%A5%87%E8%89%BA.jpg)
 
 本项目的视频讲解地址：https://www.bilibili.com/video/BV1VA411i7xX
 
@@ -166,6 +166,6 @@ spring核心包的引入
 
 **更多的详细内容可以参考视频！**
 
-**欢迎大家一起交流学习，共同进步。技术交流群，请加小孟微信：**
+关注公众号，回复：ssm水果
 
-<div align=center><img width="250" height="250" src="https://images.gitee.com/uploads/images/2020/1219/203754_ef21dcd8_7604956.png"/></div>
+![输入图片说明](WebRoot/resource/images/qrcode_for_gh_c0beb5e050be_258_%E7%88%B1%E5%A5%87%E8%89%BA.jpg)
