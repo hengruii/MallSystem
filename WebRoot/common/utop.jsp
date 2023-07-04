@@ -1,9 +1,12 @@
 <%@page language="java" contentType="text/html; character=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
+"http://www.w3.org/TR/html4/loose.dtd">
 <div class="width100" style="height: 25px;background: #f0f0f0;">
     <div class="width1200 center_yh font14 c_66" style="height: 25px;line-height: 25px;">
-        <font class="left_yh">欢迎来到水果蔬菜商城！</font>
+        <font class="left_yh" color="#00008b">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            欢迎来到商城系统！！！
+        </font>
         <div class="right_yh" id="fast_jump">
             <c:if test="${userId!=null}">
                 <a href="#">欢迎您：${username}</a>
@@ -28,10 +31,10 @@
         <a href="#" class="block_yh left_yh">
             <img src="${ctx}/resource/images/logo.png" alt="" style="height: 70px">
         </a>
-        <div class="right_yh" style="height:28px;width:316px;border:2px solid #dd4545;margin-top:-40px;">
+        <div class="right_yh" style="height:28px;width:316px;border:2px solid #00a0e9;margin-top:-40px;">
             <form action="${ctx}/item/shoplist" method="post">
                 <input type="text" placeholder="关键词查询" class="search" name="condition" value="${condition}">
-                <input type="submit" class="btnSearh" value="搜索">
+                <input type="submit" class="btnSearh" value="搜索" style="background: #00a0e9">
             </form>
         </div>
     </div>

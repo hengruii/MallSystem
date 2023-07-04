@@ -6,7 +6,7 @@
 		<meta http-equiv="refresh" content="0;url=login/uIndex">
 	</head>
 	<body>
-		默认首页
+		首页
 	</body>
 	
 </html>

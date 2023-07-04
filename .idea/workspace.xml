@@ -2,12 +2,330 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="test1:war exploded" />
+      <artifact name="MallSystem:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MallSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f2b3001a3511ee59edd2c6774416c3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f2b3011a3511ee59edd2c6774416c3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f2da101a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f328301a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f328311a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f328321a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f4d5e01a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f4fcf01a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f4fcf11a3511ee59edd2c6774416c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/15f4fcf21a3511ee59edd2c6774416c3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/test1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/test1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alipay_sdk_alipay_sdk_java_3_4_49_ALL.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_gitee_qdbp_thirdparty_ueditor_1_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_r05.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc6_12_1_0_1_atlassian_hosted.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jsptags_pager_taglib_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spellchecker_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_commons_csv_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_core_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_noggit_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_solrj_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20190722.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/base/BaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/base/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/base/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/base/BaseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/CarController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/ItemCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/ItemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/ItemOrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/MessageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/NewsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/OrderDetailController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/ScController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/UeditorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/filter/SystemContextFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/CarMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/CarMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/CommentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/CommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ItemCategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ItemCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ItemOrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ItemOrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ManageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ManageMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/MessageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/MessageMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/NewsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/NewsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/OrderDetailMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/OrderDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ScMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/ScMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/CarDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/CategoryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/ItemCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/ItemOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/Manage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/OrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/Sc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/po/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/CarService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/ItemCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/ItemOrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/ItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/ManageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/NewsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/OrderDetailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/ScService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/CarServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/CommentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/ItemCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/ItemOrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/ItemServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/ManageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/MessageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/NewsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/OrderDetailServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/ScServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/Consts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/HttpConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/ItemDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/JsonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/Pager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/SystemContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/javapandeng/utils/UUIDUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/mybatis/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/mybatis/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/shoplist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/shoplist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/common/ufooter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/ufooter.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/common/utop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/utop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/admin_login.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/admin_login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/mylessons.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/mylessons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/pintuer.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/pintuer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/a.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/b.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/c.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/d.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/uc/iconfont/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/uc/iconfont/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/uc/uc.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/uc/uc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/images/bj.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/images/bj.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/js/jquery-1.8.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/base/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/base/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/base/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/base/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/base/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/base/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/base/BaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/base/BaseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/ItemCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/ItemCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/ItemOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/ItemOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/NewsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/NewsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/OrderDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/OrderDetailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/ScController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/ScController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/UeditorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/UeditorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/filter/SystemContextFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/filter/SystemContextFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/CarMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/CarMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/CarMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/CarMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/CommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/CommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/CommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/CommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ItemCategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ItemCategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ItemCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ItemCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ItemMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ItemMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ItemMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ItemMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ItemOrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ItemOrderMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ItemOrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ItemOrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ManageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ManageMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ManageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ManageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/MessageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/MessageMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/MessageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/MessageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/NewsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/NewsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/NewsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/NewsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/OrderDetailMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/OrderDetailMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/OrderDetailMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/OrderDetailMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ScMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ScMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/ScMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/ScMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/CarDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/CarDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/CategoryDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/CategoryDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/ItemCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/ItemCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/ItemOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/ItemOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/Manage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/Manage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/OrderDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/OrderDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/Sc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/Sc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/po/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/po/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/ItemCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/ItemCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/ItemOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/ItemOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/ManageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/ManageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/NewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/NewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/OrderDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/OrderDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/ScService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/ScService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/CarServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/ItemCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/ItemCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/ItemOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/ItemOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/ItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/ManageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/ManageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/MessageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/MessageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/NewsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/NewsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/OrderDetailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/OrderDetailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/ScServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/ScServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/Consts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/Consts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/HttpConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/HttpConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/ItemDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/ItemDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/JsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/Pager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/Pager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/SystemContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/SystemContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javapandeng/utils/UUIDUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/utils/UUIDUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mybatis/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mybatis/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/applicationContext-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +357,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -46,36 +367,63 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\program\java\apache-maven-3.6.1\repository" />
-        <option name="mavenHome" value="D:/program/java/apache-maven-3.6.1" />
+        <option name="mavenHome" value="D:/Data/study/apache/Maven/apache-maven-3.8.7" />
         <option name="userSettingsFile" value="D:\program\java\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1XhIYcvbtHHBRTCQLFcHA9oFe7s" />
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.3383915" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/RH/Desktop/pp/MallSystem/WebRoot/resource/user/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.40110394",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "f8ade6c21ddddd6a650084b288a2c139",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\user\images" />
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images" />
+      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\message" />
+      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\news" />
+      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\login" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\login" />
       <recent name="D:\course\qlkrp\backup\testMaven\src" />
@@ -87,39 +435,21 @@
       <recent name="com.javapandeng.po" />
       <recent name="com.javapandeng.mapper" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\message" />
-      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\news" />
-      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\login" />
-      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\sc" />
-      <recent name="D:\course\qlkrp\code\testMaven\src\com\javapandeng\mapper" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 8.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8" />
+    <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Data\study\Java\JDK8\jre" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8 " />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="test1:war exploded">
+        <artifact name="MallSystem:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/test1_war_exploded" />
+            <option name="CONTEXT_PATH" value="/MallSystem_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_38_test1_2" />
+        <option name="BASE_DIRECTORY_NAME" value="f96babb7-9428-4193-bd6c-98810a21c0fb" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -159,6 +489,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -178,6 +523,8 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="test1:war exploded" />
+          <artifact name="test1:war" />
+          <artifact name="MallSystem:war exploded" />
         </option>
       </method>
     </configuration>
@@ -253,9 +600,15 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="test1:war exploded" />
           <artifact name="test1:war" />
+          <artifact name="MallSystem:war" />
+          <artifact name="MallSystem:war exploded" />
         </option>
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -301,10 +654,59 @@
       <workItem from="1585563578771" duration="15671000" />
       <workItem from="1585611091621" duration="2837000" />
       <workItem from="1585648453938" duration="11467000" />
+      <workItem from="1687932399448" duration="63000" />
+      <workItem from="1687933205107" duration="923000" />
+      <workItem from="1687949827937" duration="379000" />
+      <workItem from="1687951202236" duration="1512000" />
+      <workItem from="1687955756454" duration="155000" />
+      <workItem from="1687956957217" duration="2271000" />
+      <workItem from="1688007279424" duration="139000" />
+      <workItem from="1688011680502" duration="10578000" />
+      <workItem from="1688027395406" duration="1041000" />
+      <workItem from="1688037766403" duration="337000" />
+      <workItem from="1688038124048" duration="44000" />
+      <workItem from="1688106454792" duration="6728000" />
+      <workItem from="1688122425722" duration="385000" />
+      <workItem from="1688127262651" duration="754000" />
+      <workItem from="1688128102744" duration="663000" />
+      <workItem from="1688129406320" duration="628000" />
+      <workItem from="1688134633374" duration="7027000" />
+      <workItem from="1688183044812" duration="1538000" />
+      <workItem from="1688189051697" duration="667000" />
+      <workItem from="1688205039002" duration="1652000" />
+      <workItem from="1688206697424" duration="146000" />
+      <workItem from="1688206857453" duration="20000" />
+      <workItem from="1688206888108" duration="308000" />
+      <workItem from="1688207553582" duration="653000" />
+      <workItem from="1688208222683" duration="1186000" />
+      <workItem from="1688209871354" duration="77000" />
+      <workItem from="1688283875100" duration="2342000" />
+      <workItem from="1688294814060" duration="207000" />
+      <workItem from="1688362051356" duration="12000" />
+      <workItem from="1688363240397" duration="7971000" />
+      <workItem from="1688448366070" duration="11643000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

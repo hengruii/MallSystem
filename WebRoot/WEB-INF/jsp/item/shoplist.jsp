@@ -1,7 +1,7 @@
 <%@page language="java" contentType="text/html; character=UTF-8" pageEncoding="UTF-8" %>
-<%@include file="/common/taglibs.jsp"%>
+<%@include file="/common/taglibs.jsp" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
     <title>首页</title>
@@ -10,9 +10,9 @@
     <script src="${ctx}/resource/user/js/jquery.luara.0.0.1.min.js"></script>
 </head>
 <body>
-    <%@include file="/common/utop.jsp"%>
+<%@include file="/common/utop.jsp" %>
 <!--导航条-->
-<div class="width100" style="height: 45px;background: #dd4545;margin-top: 40px;position: relative;z-index: 100;">
+<div class="width100" style="height: 45px;background: #00a0e9;margin-top: 40px;position: relative;z-index: 100;">
     <!--中间的部分-->
     <div class="width1200 center_yh relative_yh" style="height: 45px;">
         <!--普通导航-->
@@ -52,7 +52,7 @@
                     <font class="left_yh red font16">￥${data.price}</font>
                     <c:if test="${data.zk!=null}">
                         <font class="right_yh font14">
-                            ${data.zk}
+                                ${data.zk}
                             <span style="color: red">折</span>
                         </font>
                     </c:if>
@@ -78,7 +78,8 @@
 <div id="navs">
     <div class="pagelist">
         <!--分页开始-->
-        <pg:pager url="${ctx}/item/shoplist" maxIndexPages="5" items="${pagers.total}" maxPageItems="15" export="curPage=pageNumber">
+        <pg:pager url="${ctx}/item/shoplist" maxIndexPages="5" items="${pagers.total}" maxPageItems="15"
+                  export="curPage=pageNumber">
             <pg:param name="categoryIdTwo" value="${obj.categoryIdTwo}"/>
             <pg:param name="price" value="${obj.price}"/>
             <pg:param name="gmNum" value="${obj.gmNum}"/>
@@ -122,21 +123,21 @@
 <script>
     function addcar(id) {
         $.ajax({
-            type:"POST",
-            url:"${ctx}/car/exAdd?itemId="+id+"&num=1",
-            success:function (result) {
+            type: "POST",
+            url: "${ctx}/car/exAdd?itemId=" + id + "&num=1",
+            success: function (result) {
                 var re = result;
-                if(re.res == 0){
+                if (re.res == 0) {
                     alert("请登录");
-                    window.location.href="${ctx}/login/uLogin";
-                }else {
-                    window.location.href="${ctx}/car/findBySql";
+                    window.location.href = "${ctx}/login/uLogin";
+                } else {
+                    window.location.href = "${ctx}/car/findBySql";
                 }
             }
         });
     }
 </script>
-<%@include file="/common/ufooter.jsp"%>
+<%@include file="/common/ufooter.jsp" %>
 </body>
 </html>
 
