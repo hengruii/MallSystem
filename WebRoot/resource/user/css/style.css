@@ -7,7 +7,7 @@
 }
 
 a {
-    color: #f4cd1f;
+    color: #000000;
 }
 
 input {
@@ -217,11 +217,11 @@ input, select {
 }
 
 .onorange:hover {
-    color: #ff5802
+    color: #00a0e9
 }
 
 .slect {
-    color: #ff5802;
+    color: #00a0e9;
 }
 
 .shadow {
@@ -249,7 +249,7 @@ input, select {
 }
 
 .red {
-    color: #fa3745;
+    color: #00a0e9;
 }
 
 .left_yh {
@@ -352,7 +352,7 @@ input, select {
 }
 
 #fast_jump a:hover {
-    color: #dd4545;
+    color: #00a0e9;
 }
 
 #fast_jump b {
@@ -501,7 +501,7 @@ input, select {
 }
 
 .n3Nav a:hover {
-    color: #ff5802;
+    color: #00a0e9;
 }
 
 /*杞挱*/
@@ -836,11 +836,11 @@ input, select {
 }
 
 .mstBuy {
-    background: #00a0e9;
+    background: #0286c2;
 }
 
 .mstBuy:hover {
-    background: #bc3a3a;
+    background: #00b1ff;
 }
 
 .addCar {
@@ -848,7 +848,7 @@ input, select {
 }
 
 .addCar:hover {
-    background: #de4e04;
+    background: #00ffec;
 }
 
 .jOy {
@@ -924,7 +924,7 @@ input, select {
 }
 
 #spXqpj a.on {
-    background: #dd4545;
+    background: #00a0e9;
     color: #fff;
 }
 
@@ -1325,7 +1325,7 @@ input, select {
 }
 
 .xzSlIn b:hover {
-    background: #dd4545;
+    background: #00a0e9;
     cursor: pointer;
     color: #fff;
 }
@@ -1348,7 +1348,7 @@ input, select {
     font-size: 16px;
     height: 128px;
     line-height: 128px;
-    color: red;
+    color: #00a0e9;
 }
 
 .xzCz {
@@ -1415,7 +1415,7 @@ input, select {
 }
 
 .ifAll:hover font {
-    color: #cb1c20;
+    color: #00a0e9;
 }
 
 .ifDel {
@@ -1430,7 +1430,7 @@ input, select {
 }
 
 .ifDel:hover {
-    color: #cb1c20;
+    color: #00a0e9;
 }
 
 .ifRemove {
@@ -1472,7 +1472,7 @@ input, select {
     float: left;
     width: 144px;
     height: 60px;
-    background: #cb1c20;
+    background: #028dce;
     text-align: center;
     line-height: 60px;
     font-size: 16px;
@@ -1481,7 +1481,7 @@ input, select {
 }
 
 .ifJs:hover {
-    background: #dd4545;
+    background: #00afff;
 }
 
 .on1 img {
@@ -1493,7 +1493,7 @@ input, select {
 }
 
 .onHover:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 #vipNav {
@@ -1518,12 +1518,12 @@ input, select {
 
 #vipNav a:hover {
     color: #fff;
-    background: #ff5802;
+    background: #00a0e9;
 }
 
 #vipNav a.on {
     color: #fff;
-    background: #ff5802;
+    background: #00a0e9;
 }
 
 #vipRight {
@@ -1563,18 +1563,18 @@ input, select {
 }
 
 .onHoverr:hover {
-    background: #ff5802;
+    background: #00a0e9;
     color: #fff;
 }
 
 .ff5802 {
-    background: #ff5802;
+    background: #0487c3;
     color: #fff;
     border: 1px solid #ddd;
 }
 
 .ff5802:hover {
-    background: #d54c05;
+    background: #00afff;
     color: #fff;
 }
 

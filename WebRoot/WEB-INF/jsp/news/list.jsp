@@ -34,7 +34,7 @@
                     <a href="${ctx}/news/view?id=${data.id}">
                         <div class="width100 hidden_yh" style="border-bottom: 1px dashed #ddd; padding-top:10px;padding-bottom: 10px;">
                             <div class="left_yh" style="width:580px;">
-                                <font color="red"> ${data.name}</font>
+                                <font color="#00a0e9"> ${data.name}</font>
                             </div>
                             <div class="right_yh">
                                 <font color="black"><fmt:formatDate value="${data.addTime}" pattern="yyyy-MM-dd HH:mm:ss"/></font>
@@ -60,7 +60,7 @@
                 <pg:pages>
                     <c:choose>
                         <c:when test="${curPage eq pageNumber}">
-                            <font color="red">[${pageNumber}]</font>
+                            <font color="#00a0e9">[${pageNumber}]</font>
                         </c:when>
                         <c:otherwise>
                             <a href="${pageUrl}">${pageNumber}</a>
