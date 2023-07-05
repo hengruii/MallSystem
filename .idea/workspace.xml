@@ -12,7 +12,7 @@
     <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/update.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -473,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688562945447</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp">
+      <created>1688563588403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688563588403</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

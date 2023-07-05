@@ -114,10 +114,8 @@ public class UserController extends BaseController {
      * 执行用户修改
      */
    @RequestMapping("/Exupdate")
-    public String Exupdate(User user,HttpServletRequest request)
+    public String Exupdate(User user)
    {
-       Object attribute = request.getSession().getAttribute(Consts.USERID);
-       user.setId(Integer.valueOf(attribute.toString()));
        userService.updateById(user);
        return "redirect:/user/findBySql";
    }

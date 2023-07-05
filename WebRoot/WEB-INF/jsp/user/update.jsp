@@ -17,6 +17,7 @@
     </div>
     <div class="body-content">
         <form action="${ctx}/user/Exupdate" method="post" class="form-x">
+            <input type="hidden" name="id" value="${obj.id}" />
             <div class="form-group">
                 <div class="form-group">
                     <span style="margin-right: 40px;height: 42px;line-height: 42px;width: 100px;" class="left_yh block_yh tright">用户名：</span>
