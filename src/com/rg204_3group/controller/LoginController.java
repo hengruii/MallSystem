@@ -129,10 +129,16 @@ public class LoginController extends BaseController {
         if(byEntity==null){
             return "redirect:/login/res.action";
         }else {
-            request.getSession().setAttribute("role",2);
-            request.getSession().setAttribute(Consts.USERNAME,byEntity.getUserName());
-            request.getSession().setAttribute(Consts.USERID,byEntity.getId());
-            return "redirect:/login/uIndex.action";
+            if (byEntity.getRealName().equals("管理员"))
+            {
+                return "login/mIndex";
+            }
+            else {
+                    request.getSession().setAttribute("role",2);
+                    request.getSession().setAttribute(Consts.USERNAME,byEntity.getUserName());
+                    request.getSession().setAttribute(Consts.USERID,byEntity.getId());
+                    return "redirect:/login/uIndex.action";
+            }
         }
     }
 

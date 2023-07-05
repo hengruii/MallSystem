@@ -9,23 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="前端">
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/bgm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/logoo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/pass.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/pass.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/sc/my.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/sc/my.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/common/ufooter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/ufooter.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/common/utop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/utop.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="前端" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +43,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -75,7 +58,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\program\java\apache-maven-3.6.1\repository" />
-        <option name="mavenHome" value="D:/Data/study/apache/Maven/apache-maven-3.8.7" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Data/study/apache/Maven/apache-maven-3.8.7" />
         <option name="userSettingsFile" value="D:\program\java\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -112,7 +95,7 @@
     &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.40110394&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;f8ade6c21ddddd6a650084b288a2c139&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -139,7 +122,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Data\study\Java\JDK8\jre" nameIsGenerated="true">
+    <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8 " />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -158,6 +141,11 @@
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="57511" />
       </RunnerSettings>
@@ -313,9 +301,7 @@
     <option name="beanDetailsProportion" value="0.3" />
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\RH\AppData\Roaming\Subversion</configuration>
-    <option name="sshConnectionType" value="PRIVATE_KEY" />
-    <option name="sshPrivateKeyPath" value="C:\Users\RH\.ssh\id_rsa" />
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -391,10 +377,7 @@
       <workItem from="1688448366070" duration="12216000" />
       <workItem from="1688469830215" duration="654000" />
       <workItem from="1688470812117" duration="1706000" />
-      <workItem from="1688473057964" duration="8319000" />
-      <workItem from="1688481482963" duration="127000" />
-      <workItem from="1688481892024" duration="1273000" />
-      <workItem from="1688532551842" duration="4235000" />
+      <workItem from="1688473057964" duration="4188000" />
     </task>
     <task id="LOCAL-00001" summary="前端">
       <option name="closed" value="true" />
@@ -404,92 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1688460318100</updated>
     </task>
-    <task id="LOCAL-00002" summary="前端">
-      <option name="closed" value="true" />
-      <created>1688477386128</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1688477386128</updated>
-    </task>
-    <task id="LOCAL-00003" summary="前端">
-      <option name="closed" value="true" />
-      <created>1688477409907</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1688477409907</updated>
-    </task>
-    <task id="LOCAL-00004" summary="前端">
-      <option name="closed" value="true" />
-      <created>1688479127319</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1688479127319</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="HEAD" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="*" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -498,7 +407,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="前端" />
-    <option name="LAST_COMMIT_MESSAGE" value="前端" />
+    <MESSAGE value="ava" />
+    <option name="LAST_COMMIT_MESSAGE" value="ava" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
