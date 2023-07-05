@@ -69,7 +69,7 @@ public class LoginController extends BaseController {
     @RequestMapping("mtuichu")
     public String mtuichu(HttpServletRequest request){
         request.getSession().setAttribute(Consts.MANAGE,null);
-        return "/login/mLogin";
+        return "/login/uLogin";
     }
 
     /**
