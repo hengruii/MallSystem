@@ -116,7 +116,7 @@ public class UserController extends BaseController {
    @RequestMapping("/Exupdate")
     public String Exupdate(User user)
    {
-       userService.updateById(user);
+       userService.update(user);
        return "redirect:/user/findBySql";
    }
 }
