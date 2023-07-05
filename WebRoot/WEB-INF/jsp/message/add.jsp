@@ -26,7 +26,7 @@
 
 <div class="width1200 center_yh hidden_yh font14" style="height: 40px;line-height: 40px;">
 </div>
-<div class="width100 hidden_yh" style="background: #f0f0f0;padding-top:34px;padding-bottom: 34px;">
+<div class="width100 hidden_yh" style="background: rgba(240,240,240,0.12);padding-top:34px;padding-bottom: 34px;">
     <div class="width1200 hidden_yh center_yh">
         <div id="vipRight" style="height: 60px;line-height: 60px;text-indent: 50px; background: #f5f8fa;width: 1200px;border:1px solid #ddd;">
             提交留言

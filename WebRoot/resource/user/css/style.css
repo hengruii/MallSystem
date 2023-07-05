@@ -7,7 +7,7 @@
 }
 
 a {
-    color: #000000;
+    color: rgba(75, 67, 51, 0.88);
 }
 
 input {
@@ -22,6 +22,9 @@ body {
     margin: 0 auto;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     min-width: 1300px;
+    /*background: #E6F1F7;*/
+    background: url("../../images/bgm.jpg") no-repeat;
+    background-size: 100% 100%;
 }
 
 img {
@@ -52,6 +55,12 @@ input, select {
     width: 100% !important;
     display: block;
 }
+
+.widthtt {
+    width: 78%;
+    margin: 0 auto; /* 将左右边距设置为 auto */
+}
+
 
 .height100 {
     height: 100%;
@@ -249,7 +258,7 @@ input, select {
 }
 
 .red {
-    color: #00a0e9;
+    color: #ab0a0a;
 }
 
 .left_yh {
@@ -327,7 +336,7 @@ input, select {
     text-align: center;
     line-height: 35px;
     color: #fff;
-    background: red;
+    background: #00a0e9;
     border: 0;
     outline: none;
     cursor: pointer;
@@ -337,7 +346,7 @@ input, select {
 }
 
 .ipt_tj:hover {
-    background: #dd4545;
+    background: #00afff;
 }
 
 #fast_jump a {
@@ -463,14 +472,14 @@ input, select {
 
 .n2Nav {
     position: absolute;
-    width: 880px;
+    width: 868px;
     height: 488px;
     top: 0;
     left: 230px;
     padding-left: 44px;
     padding-right: 44px;
-    border-right: 2px solid #ff5602;
-    border-bottom: 2px solid #ff5602;
+    border-right: 2px solid #0087c6;
+    border-bottom: 2px solid #0087c6;
     background: rgba(255, 255, 255, 0.8);
     display: none;
 }
@@ -1015,7 +1024,7 @@ input, select {
 }
 
 #navs a:hover {
-    background: #dd4545;
+    background: #00a0e9;
     color: #fff;
 }
 
