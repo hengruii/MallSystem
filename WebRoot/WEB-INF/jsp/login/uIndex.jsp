@@ -12,7 +12,7 @@
 <body>
 <%@include file="/common/utop.jsp" %>
 <!--导航条-->
-<div class="width100" style="height: 45px;background: #00a0e9;margin-top: 40px;position: relative;z-index: 100;">
+<div class="widthtt" style="height: 45px;background: #00a0e9;margin-top: 40px;position: relative;z-index: 100;">
     <!--中间的部分-->
     <div class="width1200 center_yh relative_yh" style="height: 45px;">
         <!--列表导航-->

@@ -31,7 +31,7 @@
 <div class="width1200 hidden_yh center_yh font20">全部商品<font class="red">（${fn:length(list)}）</font> </div>
 <div class="width1198 hidden_yh center_yh" style="border: 1px solid #ddd;margin-top: 18px;min-height: 300px;">
     <div class="width100 hidden_yh font14" style="height: 32px;line-height: 32px;
-    background: #f0f0f0;text-indent: 21px;color: #000; font-weight: 600;border-bottom: 1px solid #ddd;">商品详情</div>
+    background: rgba(240,240,240,0.11);text-indent: 21px;color: #000; font-weight: 600;border-bottom: 1px solid #ddd;">商品详情</div>
     <div class="width100 hidden_yh fon14" style="height: 42px;line-height: 42px;border-bottom: 1px solid #ddd;">
         <div class="left_yh tcenter font14" style="width: 486px;">商品</div>
         <div class="left_yh tcenter font14" style="width: 175px;">价格</div>

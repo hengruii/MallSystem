@@ -10,20 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="前端">
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/bgm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/images/logoo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/pass.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/pass.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message/add.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/sc/my.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/sc/my.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/common/ufooter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/ufooter.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/common/utop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/utop.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/a.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/a.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/b.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/c.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/c.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -96,26 +97,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/RH/Desktop/pp/MallSystem/WebRoot/resource/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "工件",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.40110394",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "f8ade6c21ddddd6a650084b288a2c139",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/RH/Desktop/pp/MallSystem/WebRoot/resource/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40110394&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f8ade6c21ddddd6a650084b288a2c139&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images" />
@@ -312,7 +313,9 @@
     <option name="beanDetailsProportion" value="0.3" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\RH\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="C:\Users\RH\.ssh\id_rsa" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -388,7 +391,10 @@
       <workItem from="1688448366070" duration="12216000" />
       <workItem from="1688469830215" duration="654000" />
       <workItem from="1688470812117" duration="1706000" />
-      <workItem from="1688473057964" duration="4188000" />
+      <workItem from="1688473057964" duration="8319000" />
+      <workItem from="1688481482963" duration="127000" />
+      <workItem from="1688481892024" duration="1273000" />
+      <workItem from="1688532551842" duration="4235000" />
     </task>
     <task id="LOCAL-00001" summary="前端">
       <option name="closed" value="true" />
@@ -398,18 +404,92 @@
       <option name="project" value="LOCAL" />
       <updated>1688460318100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="前端">
+      <option name="closed" value="true" />
+      <created>1688477386128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688477386128</updated>
+    </task>
+    <task id="LOCAL-00003" summary="前端">
+      <option name="closed" value="true" />
+      <created>1688477409907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688477409907</updated>
+    </task>
+    <task id="LOCAL-00004" summary="前端">
+      <option name="closed" value="true" />
+      <created>1688479127319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688479127319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

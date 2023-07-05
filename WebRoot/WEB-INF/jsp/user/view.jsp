@@ -29,7 +29,7 @@
     ><a href="#" class="c_66">个人中心</a>
     ><a href="#" class="c_66">个人信息</a>
 </div>
-<div class="width100 hidden_yh" style="background: #f0f0f0;padding-top: 34px;padding-bottom: 34px;">
+<div class="width100 hidden_yh" style="background: rgba(240,240,240,0.1);padding-top: 34px;padding-bottom: 34px;">
     <div class="width1200 hidden_yh center_yh">
         <div id="vipNav">
             <a href="${ctx}/user/view" class="on">个人信息</a>
