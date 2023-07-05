@@ -40,27 +40,6 @@
         </div>
     </div>
 </div>
-<%--<script>--%>
-<%--    let name = document.getElementById("text").value--%>
-<%--    let psw = document.getElementById("password").value--%>
-<%--    if (name == "" || psw == "") {--%>
-<%--        alert('姓名密码不能为空')--%>
-<%--    }--%>
-<%--</script>--%>
-<script>
-    window.onload = function () {
-        document.querySelector("form").addEventListener("submit", function (event) {
-            var userName = document.getElementsByName("userName")[0].value;
-            var passWord = document.getElementsByName("passWord")[0].value;
-
-            if (userName.trim() === "" || passWord.trim() === "") {
-                event.preventDefault(); // 阻止表单提交
-                alert("用户名和密码不能为空");
-            }
-        })
-    };
-</script>
-
 <%@include file="/common/ufooter.jsp" %>
 </body>
 </html>

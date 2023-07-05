@@ -1,7 +1,7 @@
 <%@page language="java" contentType="text/html; character=UTF-8" pageEncoding="UTF-8" %>
-<%@include file="/common/taglibs.jsp"%>
+<%@include file="/common/taglibs.jsp" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
     <title>首页</title>
@@ -10,7 +10,7 @@
     <script src="${ctx}/resource/user/js/jquery.luara.0.0.1.min.js"></script>
 </head>
 <body>
-    <%@include file="/common/utop.jsp"%>
+<%@include file="/common/utop.jsp" %>
 <!--导航条-->
 <div class="width100" style="height: 45px;background: #00a0e9;margin-top: 40px;position: relative;z-index: 100;">
     <!--中间的部分-->
@@ -58,7 +58,7 @@
             <p class="font16 c_66" style="margin-top:25px;">
                 <font style="margin-right: 20px;">促销：</font>
                 <font>
-                    ${obj.zk}
+                        ${obj.zk}
                     <span>折</span>
                 </font>
             </p>
@@ -72,13 +72,13 @@
             <script>
                 var tr = $("#t_a").val();
                 $("#min_s").click(function () {
-                   tr--;
-                   if(tr<1){
-                       $("#t_a").val(1);
-                       tr = 1;
-                   }else{
-                       $("#t_a").val(tr);
-                   }
+                    tr--;
+                    if (tr < 1) {
+                        $("#t_a").val(1);
+                        tr = 1;
+                    } else {
+                        $("#t_a").val(tr);
+                    }
                 });
                 $("#add_s").click(function () {
                     tr++;
@@ -100,21 +100,26 @@
         </div>
         <div class="width100 hidden_yh">
             <div id="spDetail">
-                ${obj.ms}
+                <%--                ${obj.ms}--%>
+                <img src="${obj.url1}" height="500px" width="500px">
             </div>
             <div id="spPj">
-                <div class="width100 hidden_yh" style="padding-bottom: 20px;border-bottom: 1px dashed #ddd; margin-bottom: 10px;">
+                <div class="width100 hidden_yh"
+                     style="padding-bottom: 20px;border-bottom: 1px dashed #ddd; margin-bottom: 10px;">
                     <c:forEach items="${obj.pls}" var="data" varStatus="l">
                         <div style="width: 790px;float: right;overflow:hidden;margin-top: 20px;">
-                            <img src="${ctx}/resource/user/images/x.jpg" style="width: 40px;height: 40px;border-radius: 50%;float: left;border:1px solid #ddd;margin-top: 20px;margin-right: 30px;">
-                            <h3 class="font16 c_33 font100" style="color: red;font-weight: bold;">${data.user.userName}</h3>
+                            <img src="${ctx}/resource/user/images/x.jpg"
+                                 style="width: 40px;height: 40px;border-radius: 50%;float: left;border:1px solid #ddd;margin-top: 20px;margin-right: 30px;">
+                            <h3 class="font16 c_33 font100"
+                                style="color: red;font-weight: bold;">${data.user.userName}</h3>
                             <p class="font14 c_99" style="margin-top: 6px;">
                                 <fmt:formatDate value="${data.addTime}" pattern="yyyy-MM-dd"/>
                             </p>
                             <p class="font16 c_33" style="margin-top: 6px;">
-                                ${data.content}
+                                    ${data.content}
                             </p>
-                            <div class="width100 hidden_yh" style="padding-bottom: 20px; border-bottom: 1px dashed #ddd;margin-bottom: 10px;">
+                            <div class="width100 hidden_yh"
+                                 style="padding-bottom: 20px; border-bottom: 1px dashed #ddd;margin-bottom: 10px;">
                             </div>
                         </div>
                     </c:forEach>
@@ -129,33 +134,33 @@
         $(this).addClass("on").siblings().removeClass("on");
     });
     $("#spXqpj a").eq(0).click(function () {
-        $("#spDetail").css({display:"block"}).siblings().css({display:"none"});
+        $("#spDetail").css({display: "block"}).siblings().css({display: "none"});
     });
     $("#spXqpj a").eq(1).click(function () {
-        $("#spPj").css({display:"block"}).siblings().css({display:"none"});
+        $("#spPj").css({display: "block"}).siblings().css({display: "none"});
     });
 
     $(function () {
-    $(".addCar").click(function () {
-        var id = $("#id").val();
-        var num = $("#t_a").val();
-        $.ajax({
-            type:"POST",
-            url:"${ctx}/car/exAdd?itemId="+id+"&num="+num,
-            success:function (result) {
-                var re = result;
-                if(re.res == 0){
-                    alert("请登录");
-                    window.location.href="${ctx}/login/uLogin";
-                }else {
-                    window.location.href="${ctx}/car/findBySql";
+        $(".addCar").click(function () {
+            var id = $("#id").val();
+            var num = $("#t_a").val();
+            $.ajax({
+                type: "POST",
+                url: "${ctx}/car/exAdd?itemId=" + id + "&num=" + num,
+                success: function (result) {
+                    var re = result;
+                    if (re.res == 0) {
+                        alert("请登录");
+                        window.location.href = "${ctx}/login/uLogin";
+                    } else {
+                        window.location.href = "${ctx}/car/findBySql";
+                    }
                 }
-            }
+            });
         });
     });
-});
 </script>
-<%@include file="/common/ufooter.jsp"%>
+<%@include file="/common/ufooter.jsp" %>
 </body>
 </html>
 

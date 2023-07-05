@@ -112,6 +112,7 @@ public class LoginController extends BaseController {
     /**执行普通用户注册*/
     @RequestMapping("/toRes")
     public String toRes(User u){
+        u.setRealName("用户");
         userService.insert(u);
         return "login/uLogin";
     }

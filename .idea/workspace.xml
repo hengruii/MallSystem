@@ -9,11 +9,138 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="lib">
+    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="登录">
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/010cef501b0711ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/010d16601b0711ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/010d3d701b0711ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/010d3d711b0711ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/010d64801b0711ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/01e9a5a01b0511eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/01e9ccb01b0511eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/01e9f3c01b0511eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/01ea1ad01b0511eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/01ea1ad11b0511eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/0f2248101b0711ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/0f226f201b0711ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/0f226f211b0711ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/0f2296301b0711ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/0f2296311b0711ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.1.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.1.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.1.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.2.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.2.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.2.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.2.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.2.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1970a0001b0211eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1a38d2001b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1a38f9101b0211eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1a3920201b0211eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1a3947301b0211eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1a3947311b0211eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27514cd01b0511eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/275173e01b0511eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27519af01b0511eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/2751c2001b0511eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/275210201b0511eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27a911201b0211eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27a938301b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27a938311b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27a95f401b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/27aabed01b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/38da44501b0c11ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/38da92701b0c11ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/38dab9801b0c11ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/38dab9811b0c11ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/38dae0901b0c11ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/3c3bca601b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/3c3c18801b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/3c3c18811b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/3c3c66a01b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/3c3c8db01b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/6f49e6701b0311eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/6f4a0d801b0311eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/6f4a34901b0311eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/6f4a34911b0311eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/6f4a5ba01b0311eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7200e5901b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/733a9e101b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/733a9e111b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/733ac5201b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/733ac5211b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/733aec301b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/84141fe01b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/85b218701b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/85b218711b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/85b350f01b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/85b350f11b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/85b350f21b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/9d02bc601b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/9d02e3701b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/9d030a801b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/9d0331901b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/9d0358a01b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/a91f1d901b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/a91f6bb01b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/a91f92c01b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/a91fb9d01b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/a91fb9d11b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c2a3dc601b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c2da8a801b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c2dab1901b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c2dab1911b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c2dab1921b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c2dad8a01b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c46e3c201b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c46e63301b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c46e8a401b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c46eb1501b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c46ed8601b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c7e289101b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c7e2b0201b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c7e2b0211b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c7e2b0221b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c7e2d7301b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/c9b5bf401b0211eeee30dceed45d776c1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/caa96e101b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/caa995201b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/caa995211b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/caa9bc301b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/caa9bc311b0211eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d2619bb01b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d261e9d01b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d26210e01b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d26210e11b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d26210e21b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d79b0a801b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d79b31901b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d79b58a01b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d79b58a11b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/d79b7fb01b0611ee286b736477c5146c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/eee491401b0411eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/eee491411b0411eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/eee4df601b0411eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/eee4df611b0411eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/eee4df621b0411eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/efe155e01b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/efe17cf01b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/efe1a4001b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/efe1a4011b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/efe1f2201b0611ee286b736477c5146c1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fe9c2fb01b0111eeee30dceed45d776cO1CN01nDPpKY296kpy7kd9r_!!0-item_pic.jpg_580x580Q90.jpg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fe9c7dd01b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fe9ca4e01b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fe9ca4e11b0111eeee30dceed45d776c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fe9ccbf01b0111eeee30dceed45d776c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/images/x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/images/x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,35 +212,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/RH/Desktop/pp/MallSystem/WebRoot/resource/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.40110394&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;f8ade6c21ddddd6a650084b288a2c139&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/RH/Desktop/pp/MallSystem/WebRoot/resource/ueditor/upload",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.40110394",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "f8ade6c21ddddd6a650084b288a2c139",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\ueditor\upload" />
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\user\images" />
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\items" />
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\WEB-INF\lib" />
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images" />
-      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images\login" />
-      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\user\images" />
-      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\message" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\ueditor\upload" />
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images" />
       <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\login" />
       <recent name="D:\course\qlkrp\backup\testMaven\src" />
@@ -400,13 +528,41 @@
       <option name="project" value="LOCAL" />
       <updated>1688538375621</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="登录">
+      <option name="closed" value="true" />
+      <created>1688539064306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688539064306</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -422,7 +578,8 @@
     <MESSAGE value="前端" />
     <MESSAGE value="ava" />
     <MESSAGE value="lib" />
-    <option name="LAST_COMMIT_MESSAGE" value="lib" />
+    <MESSAGE value="登录" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
