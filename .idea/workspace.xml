@@ -10,21 +10,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="前端">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/alipay-sdk-java-3.4.49.ALL.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/asm-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspectjweaver-1.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/cglib-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/classmate-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-pool-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/core-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/fastjson-1.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/guava-r05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-validator-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/httpclient-4.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/httpcore-4.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-annotations-2.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-core-2.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-databind-2.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jakarta-regexp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javaee-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javase-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.mail-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/json-20190722.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jsqlparser-0.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-analyzers-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-core-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-grouping-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-highlighter-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-memory-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-misc-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-queries-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-spatial-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/lucene-spellchecker-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-paginator-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/pagehelper-4.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/pager-taglib-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/servlet-api-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-api-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/solr-commons-csv-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/solr-core-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/solr-noggit-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/solr-solrj-3.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-aop-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-beans-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-support-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-core-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-expression-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-jdbc-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-orm-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-oxm-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-test-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-tx-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-web-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-webmvc-4.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ueditor-1.4.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/validation-api-1.0.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/wstx-asl-3.2.7.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/itemOrder/my.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/pass.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/pass.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/message/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/sc/my.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/sc/my.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/common/utop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/utop.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/a.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/a.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/b.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/c.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/c.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/user/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +141,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\program\java\apache-maven-3.6.1\repository" />
-        <option name="mavenHome" value="D:/Data/study/apache/Maven/apache-maven-3.8.7" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Data/study/apache/Maven/apache-maven-3.8.7" />
         <option name="userSettingsFile" value="D:\program\java\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -112,8 +179,13 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.40110394",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "f8ade6c21ddddd6a650084b288a2c139",
+    "spring.configuration.checksum": "627bbc6d00834dae9d8d4388cedfcc5e",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -138,7 +210,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\Data\study\Java\JDK8\jre" nameIsGenerated="true">
+    <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8 " />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -157,6 +229,11 @@
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="57511" />
       </RunnerSettings>
@@ -223,8 +300,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="test1:war exploded" />
-          <artifact name="test1:war" />
           <artifact name="MallSystem:war exploded" />
         </option>
       </method>
@@ -305,6 +380,37 @@
           <artifact name="MallSystem:war exploded" />
         </option>
       </method>
+    </configuration>
+    <configuration default="true" type="aws.lambda" factoryName="Local">
+      <option name="credentialProviderId" />
+      <option name="regionId" />
+      <option name="debugHost" value="localhost" />
+      <option name="architecture" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="image" value="false" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="pathMappings">
+        <list />
+      </option>
+      <option name="platform" />
+      <option name="runtime" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" />
+        <option name="additionalLocalArgs" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -389,6 +495,7 @@
       <workItem from="1688469830215" duration="654000" />
       <workItem from="1688470812117" duration="1706000" />
       <workItem from="1688473057964" duration="4188000" />
+      <workItem from="1688535162226" duration="2160000" />
     </task>
     <task id="LOCAL-00001" summary="前端">
       <option name="closed" value="true" />
