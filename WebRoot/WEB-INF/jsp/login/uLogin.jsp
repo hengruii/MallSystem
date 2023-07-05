@@ -35,7 +35,6 @@
                     <div>&nbsp;</div>
                     <input type="submit" value="注册" class="center_yh"
                            style="width: 100%;height: 43px;font-size: 16px;background: #00a0e9;outline: none;border: 0;color: #fff; cursor:pointer;">
-<%--                    #dd4545--%>
                 </div>
             </form>
         </div>
@@ -48,6 +47,20 @@
 <%--        alert('姓名密码不能为空')--%>
 <%--    }--%>
 <%--</script>--%>
+<script>
+    window.onload = function () {
+        document.querySelector("form").addEventListener("submit", function (event) {
+            var userName = document.getElementsByName("userName")[0].value;
+            var passWord = document.getElementsByName("passWord")[0].value;
+
+            if (userName.trim() === "" || passWord.trim() === "") {
+                event.preventDefault(); // 阻止表单提交
+                alert("用户名和密码不能为空");
+            }
+        })
+    };
+</script>
+
 <%@include file="/common/ufooter.jsp" %>
 </body>
 </html>

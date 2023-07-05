@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="前端" />
+    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="lib">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +63,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\program\java\apache-maven-3.6.1\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../Data/study/apache/Maven/apache-maven-3.8.7" />
+        <option name="mavenHome" value="$USER_HOME$/Data/study/apache/Maven/apache-maven-3.8.7" />
         <option name="userSettingsFile" value="D:\program\java\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -102,11 +107,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\WEB-INF\lib" />
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images" />
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images\login" />
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\user\images" />
       <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\message" />
-      <recent name="D:\course\qlkrp\code\testMaven\WebRoot\WEB-INF\jsp\news" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\RH\Desktop\pp\MallSystem\WebRoot\resource\images" />
@@ -387,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688460318100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lib">
+      <option name="closed" value="true" />
+      <created>1688538375621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688538375621</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +421,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="前端" />
     <MESSAGE value="ava" />
-    <option name="LAST_COMMIT_MESSAGE" value="ava" />
+    <MESSAGE value="lib" />
+    <option name="LAST_COMMIT_MESSAGE" value="lib" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
