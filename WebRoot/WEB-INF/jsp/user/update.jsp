@@ -28,14 +28,14 @@
                     <input type="text" name="passWord" placeholder="建议至少使用两种字符组合" style="border:1px solid #c9c9c9;width: 292px;height: 42px;font-size: 16px;text-indent: 22px;" class="left_yh" value="${obj.passWord}">
 
                 </div>
-                <div class="form-group">
+                <div class=" form-group">
                     <div class="left_yh font16 tright" style="width: 120px;">
                         <span class="red">*</span>性别：
-                    </div>
                     <select style="outline: none;border: 1px solid #ddd;height: 30px;" name="sex">
                         <option value="男" ${obj.sex=='男'?'selected="selected"':''}>男</option>
                         <option value="女" ${obj.sex=='女'?'selected="selected"':''}>女</option>
                     </select>
+                    </div>
                 </div>
                 <div class="form-group">
                     <span style="margin-right: 40px;height: 42px;line-height: 42px;width: 100px;" class="left_yh block_yh tright">手机号：</span>

@@ -47,7 +47,7 @@
     </div>
 </div>
 <!--轮动广告-->
-<div class="width1200 center_yh hidden_yh" style="position: relative;z-index:80;">
+<div class="width1200 center_yh hidden_yh" style=" position: relative;z-index:80;">
     <div class="example2" style="width: 1200px;height: 490px;overflow: hidden;margin-left: 230px;">
         <ul>
             <li><img src="${ctx}/resource/images/a.png" alt=""></li>

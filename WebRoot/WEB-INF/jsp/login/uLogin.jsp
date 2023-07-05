@@ -30,43 +30,28 @@
                         <input type="password" placeholder="请输入密码" name="passWord" value=""
                                style="border: 0;width: 292px;height: 42px; font-size: 16px;text-indent: 22px;">
                     </div>
-                    <input type="submit" value="登录" class="center_yh"
+                    <input type="submit" value="登录" class="center_yh" onclick="loginValidation()"
                            style="width: 100%;height: 43px;font-size: 16px;background: #00a0e9;outline: none;border: 0;color: #fff; cursor:pointer;">
                     <div>&nbsp;</div>
-                    <input type="button" value="注册" class="center_yh" onclick="javascript:window.location.href='res.action';"
+                    <input type="button" value="注册" class="center_yh"
+                           onclick="javascript:window.location.href='res.action';"
                            style="width: 100%;height: 43px;font-size: 16px;background: #00a0e9;outline: none;border: 0;color: #fff; cursor:pointer;">
-<%--                    #dd4545--%>
                 </div>
             </form>
         </div>
     </div>
 </div>
 <script>
-    let name = document.getElementById("text").value
-    let psw = document.getElementById("password").value
-    if (name == "" || psw == "") {
-        alert('姓名密码不能为空')
+    function loginValidation() {
+        var username = document.getElementsByName("userName")[0].value;
+        var password = document.getElementsByName("passWord")[0].value;
+
+        if (username === "" || password === "") {
+            alert("用户名或密码不能为空");
+            event.preventDefault(); // 阻止表单提交跳转
+        }
     }
+
 </script>
-<%@include file="/common/ufooter.jsp" %>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -41,12 +41,12 @@
             <form action="${ctx}/user/exUpdate" method="post" id="myf">
                 <div class="hidden_yh bj_fff" style="width: 938px;border: 1px solid #ddd;">
                     <div class="width100 font24" style="height: 60px;line-height: 60px;text-indent: 50px; background: #f5f8fa;border-bottom: 1px solid #ddd;">基本信息</div>
-                    <div class="width100" style="height: 32px;line-height: 32px;margin-top: 25px;">
-                        <div class="left_yh font16 tright" style="width: 120px;">
-                            <font class="red">*</font>真实姓名：
-                        </div>
-                            <input type="text" name="realName" value="${obj.realName}" style="width: 243px;border: 1px solid #ddd;outline: none;height:30px;text-indent: 10px;">
-                    </div>
+<%--                    <div class="width100" style="height: 32px;line-height: 32px;margin-top: 25px;">--%>
+<%--                        <div class="left_yh font16 tright" style="width: 120px;">--%>
+<%--                            <font class="red">*</font>真实姓名：--%>
+<%--                        </div>--%>
+<%--                            <input type="text" name="realName" value="${obj.realName}" style="width: 243px;border: 1px solid #ddd;outline: none;height:30px;text-indent: 10px;">--%>
+<%--                    </div>--%>
                     <div class="width100" style="height: 32px;line-height: 32px;margin-top: 25px;">
                         <div class="left_yh font16 tright" style="width: 120px;">
                             <span class="red">*</span>性别：

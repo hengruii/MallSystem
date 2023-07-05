@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>首页</title>
-		<meta http-equiv="refresh" content="0;url=login/uIndex">
+		<meta http-equiv="refresh" content="0;url=login/uLogin">
 	</head>
 	<body>
 		首页

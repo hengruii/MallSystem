@@ -128,7 +128,7 @@ public class LoginController extends BaseController {
     public String utoLogin(User u,HttpServletRequest request){
         User byEntity = userService.getByEntity(u);
         if(byEntity==null){
-            return "redirect:/login/res.action";
+            return "redirect:/login/uLogin.action";
         }else {
             if (byEntity.getRealName().equals("管理员"))
             {

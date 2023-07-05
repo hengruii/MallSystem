@@ -10,10 +10,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp">
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea56bc01b3311ee2e1a093c9cd3eb643e88b860324111e720ede353dd7395b13TB25IbzdR0lpuFjSszdXXcdxFXa_!!856979316.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea5e0f01b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea608001b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea67d301b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea6a4401b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/911fc1ca-fe78-487c-ace8-3653ce8876c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/911fc1ca-fe78-487c-ace8-3653ce8876c3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/update.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +106,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\program\java\apache-maven-3.6.1\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../Data/study/apache/Maven/apache-maven-3.8.7" />
+        <option name="mavenHome" value="$USER_HOME$/Data/study/apache/Maven/apache-maven-3.8.7" />
         <option name="userSettingsFile" value="D:\program\java\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -133,6 +170,37 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="aws.lambda" factoryName="Local">
+      <option name="credentialProviderId" />
+      <option name="regionId" />
+      <option name="debugHost" value="localhost" />
+      <option name="architecture" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="image" value="false" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="pathMappings">
+        <list />
+      </option>
+      <option name="platform" />
+      <option name="runtime" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" />
+        <option name="additionalLocalArgs" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8 " />
@@ -306,37 +374,6 @@
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="aws.lambda" factoryName="Local">
-      <option name="credentialProviderId" />
-      <option name="regionId" />
-      <option name="debugHost" value="localhost" />
-      <option name="architecture" />
-      <option name="environmentVariables">
-        <map />
-      </option>
-      <option name="handler" />
-      <option name="image" value="false" />
-      <option name="logicalFunctionName" />
-      <option name="memorySize" value="128" />
-      <option name="pathMappings">
-        <list />
-      </option>
-      <option name="platform" />
-      <option name="runtime" />
-      <option name="templateFile" />
-      <option name="timeout" value="300" />
-      <option name="useTemplate" value="false" />
-      <option name="input" />
-      <option name="inputIsFile" value="false" />
-      <sam>
-        <option name="additionalBuildArgs" />
-        <option name="additionalLocalArgs" />
-        <option name="buildInContainer" value="false" />
-        <option name="dockerNetwork" />
-        <option name="skipImagePull" value="false" />
-      </sam>
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBeansView">
@@ -466,21 +503,7 @@
       <option name="project" value="LOCAL" />
       <updated>1688562729643</updated>
     </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp">
-      <created>1688562945447</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1688562945447</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp">
-      <created>1688563588403</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1688563588403</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
