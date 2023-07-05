@@ -33,13 +33,21 @@
                     <input type="submit" value="登录" class="center_yh"
                            style="width: 100%;height: 43px;font-size: 16px;background: #00a0e9;outline: none;border: 0;color: #fff; cursor:pointer;">
                     <div>&nbsp;</div>
-                    <input type="submit" value="注册" class="center_yh"
+                    <input type="button" value="注册" class="center_yh" onclick="javascript:window.location.href='res.action';"
                            style="width: 100%;height: 43px;font-size: 16px;background: #00a0e9;outline: none;border: 0;color: #fff; cursor:pointer;">
+<%--                    #dd4545--%>
                 </div>
             </form>
         </div>
     </div>
 </div>
+<script>
+    let name = document.getElementById("text").value
+    let psw = document.getElementById("password").value
+    if (name == "" || psw == "") {
+        alert('姓名密码不能为空')
+    }
+</script>
 <%@include file="/common/ufooter.jsp" %>
 </body>
 </html>

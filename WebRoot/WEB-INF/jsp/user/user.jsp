@@ -16,6 +16,9 @@
         <div class="padding border-bottom">
             <ul class="search" style="padding-left: 10px;">
                 <li>
+                    <a class="button border-main icon-plus-square-o" href="${ctx}/user/add">添加用户</a>
+                </li>
+                <li>
                     <input type="text" placeholder="请输入用户名" name="userName" class="input" value="${obj.userName}"
                         style="width: 250px;line-height: 17px;display: inline-block" />
                     <a href="javascript:void(0)" onclick="changeSearch()" class="button border-main icon-search">搜索</a>
@@ -40,7 +43,10 @@
             <td>${data.sex}</td>
             <td>${data.email}</td>
             <td>${data.address}</td>
-
+            <td>
+                <a class="button border-main" href="${ctx}/user/update?id=${data.id}"><span class="icon-edit">修改</span> </a>
+                <a class="button border-red" href="${ctx}/user/delete?id=${data.id}"><span class="icon-trash-o">删除</span> </a>
+            </td>
         </tr>
     </c:forEach>
         <tr>

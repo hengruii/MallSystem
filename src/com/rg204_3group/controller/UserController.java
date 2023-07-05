@@ -1,6 +1,8 @@
 package com.rg204_3group.controller;
 
 import com.rg204_3group.base.BaseController;
+import com.rg204_3group.po.Item;
+import com.rg204_3group.po.ItemCategory;
 import com.rg204_3group.po.User;
 import com.rg204_3group.service.UserService;
 import com.rg204_3group.utils.Consts;
@@ -9,8 +11,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
 import javax.servlet.http.HttpServletRequest;
+import java.io.IOException;
+import java.util.List;
 
 /**
  * 用户c层
@@ -66,4 +72,51 @@ public class UserController extends BaseController {
         userService.updateById(user);
         return "redirect:/user/view.action";
     }
+    /***
+     * 添加用户信息功能
+     */
+    @RequestMapping("/add")
+    public String add(Model model){
+        String sql = "select * from user ";
+        List<User> listBySqlReturnEntity = userService.listBySqlReturnEntity(sql);
+        model.addAttribute("types",listBySqlReturnEntity);
+        return "user/add";
+    }
+    /***
+     *执行添加功能
+     */
+    @RequestMapping("/exAdd")
+    public String exAdd(User user) throws IOException{
+        userService.insert(user);
+        return "redirect:/user/findBySql.action";
+    }
+    /**
+     * 删除操作
+     */
+    @RequestMapping("/delete")
+    public String delete(Integer id){
+        userService.deleteById(id);
+        return "redirect:/user/findBySql";
+    }
+    /**
+     * 修改用户入口
+     */
+    @RequestMapping("/update")
+    public String update(Integer id,Model model){
+        User obj = userService.load(id);
+        String sql = "select * from user";
+        List<User> listBySqlReturnEntity = userService.listBySqlReturnEntity(sql);
+        model.addAttribute("types",listBySqlReturnEntity);
+        model.addAttribute("obj",obj);
+        return "user/update";
+    }
+    /**
+     * 执行用户修改
+     */
+   @RequestMapping("/Exupdate")
+    public String Exupdate(User user)
+   {
+       userService.updateById(user);
+       return "redirect:/user/findBySql";
+   }
 }

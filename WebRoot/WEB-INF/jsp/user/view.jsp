@@ -49,7 +49,7 @@
                     </div>
                     <div class="width100" style="height: 32px;line-height: 32px;margin-top: 25px;">
                         <div class="left_yh font16 tright" style="width: 120px;">
-                            <font class="red">*</font>性别：
+                            <span class="red">*</span>性别：
                         </div>
                         <select style="outline: none;border: 1px solid #ddd;height: 30px;" name="sex">
                             <option value="男" ${obj.sex=='男'?'selected="selected"':''}>男</option>
