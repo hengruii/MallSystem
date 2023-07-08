@@ -229,25 +229,5 @@
         });
     }
 </script>
-<%@include file="/common/ufooter.jsp"%>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

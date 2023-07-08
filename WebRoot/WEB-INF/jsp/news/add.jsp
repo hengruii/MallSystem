@@ -1,5 +1,5 @@
 <%@page language="java" contentType="text/html; character=UTF-8" pageEncoding="UTF-8" %>
-<%@include file="/common/taglibs.jsp"%>
+<%@include file="/common/taglibs.jsp" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -22,22 +22,26 @@
             <div class="form-group">
                 <div class="label"><label>标题：</label></div>
                 <div class="field">
-                    <input type="text" class="input w50" name="name" data-validate="required:请输入标题" />
+                    <input type="text" class="input w50" name="name" data-validate="required:请输入标题"/>
                     <div class="tips"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>内容：</label></div>
                 <div class="field">
-                    <script type="text/plain" id="remark_txt_1" name="content" style="width: 100%;height: 300px;"></script>
+                    <%--                    <script type="text/plain" id="remark_txt_1" name="content" style="width: 100%;height: 300px;"></script>--%>
+                    <textarea id="txt_editor"></textarea>
+                    <script type="text/javascript">
+                        var editor = document.getElementById('txt_editor');
+                    </script>
                     <script type="text/javascript">
                         var editor = UE.getEditor('remark_txt_1');
                         UE.Editor.prototype._bkGetActionUrl = UE.Editor.prototype.getActionUrl;
                         UE.Editor.prototype.getActionUrl = function (action) {
-                            if(action == 'uploadimage' || action == 'uploadscrawl' || action == 'uploadvideo'){
+                            if (action == 'uploadimage' || action == 'uploadscrawl' || action == 'uploadvideo') {
                                 return '${ctx}/ueditor/saveFile';
-                            }else{
-                                return this._bkGetActionUrl.call(this,action);
+                            } else {
+                                return this._bkGetActionUrl.call(this, action);
                             }
                         }
                     </script>

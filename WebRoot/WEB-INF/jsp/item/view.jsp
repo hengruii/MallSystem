@@ -68,7 +68,7 @@
             <a href="javascript:void(0)" id="min_s">-</a>
             <input type="text" value="1" readonly id="t_a">
             <a href="javascript:void(0)" id="add_s">+</a>
-            <font class="font14 c_99" style="margin-left: 20px;">库存100</font>
+<%--            <font class="font14 c_99" style="margin-left: 20px;">库存100</font>--%>
             <script>
                 var tr = $("#t_a").val();
                 $("#min_s").click(function () {
@@ -94,13 +94,13 @@
 </div>
 <div class="width1200 hidden_yh center_yh" style="margin-top: 40px;">
     <div class="right_yh" style="width: 1200px;">
-        <div class="hidden_yh" id="spXqpj">
+        <div class="" id="spXqpj">
             <a href="javascript:void(0)" class="on">商品详情</a>
             <a href="javascript:void(0)">商品评价</a>
         </div>
         <div class="width100 hidden_yh">
             <div id="spDetail">
-                <%--                ${obj.ms}--%>
+                ${obj.ms}
                 <img src="${obj.url1}" height="500px" width="500px">
             </div>
             <div id="spPj">

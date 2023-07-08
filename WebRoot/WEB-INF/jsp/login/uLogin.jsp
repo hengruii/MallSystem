@@ -45,7 +45,6 @@
     function loginValidation() {
         var username = document.getElementsByName("userName")[0].value;
         var password = document.getElementsByName("passWord")[0].value;
-
         if (username === "" || password === "") {
             alert("用户名或密码不能为空");
             event.preventDefault(); // 阻止表单提交跳转

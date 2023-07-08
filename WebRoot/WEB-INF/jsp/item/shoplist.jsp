@@ -78,6 +78,7 @@
 <div id="navs">
     <div class="pagelist">
         <!--分页开始-->
+
         <pg:pager url="${ctx}/item/shoplist" maxIndexPages="5" items="${pagers.total}" maxPageItems="15"
                   export="curPage=pageNumber">
             <pg:param name="categoryIdTwo" value="${obj.categoryIdTwo}"/>

@@ -65,5 +65,4 @@ public class MessageController extends BaseController {
         js.put("message","添加成功");
         return js.toString();
     }
-
 }

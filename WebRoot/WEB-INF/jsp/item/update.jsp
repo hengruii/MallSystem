@@ -1,5 +1,5 @@
 <%@page language="java" contentType="text/html; character=UTF-8" pageEncoding="UTF-8" %>
-<%@include file="/common/taglibs.jsp"%>
+<%@include file="/common/taglibs.jsp" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -19,25 +19,28 @@
     </div>
     <div class="body-content">
         <form action="${ctx}/item/exUpdate" method="post" class="form-x" enctype="multipart/form-data">
-            <input type="hidden" name="id" value="${obj.id}" />
+            <input type="hidden" name="id" value="${obj.id}"/>
             <div class="form-group">
                 <div class="label"><label>商品名称：</label></div>
                 <div class="field">
-                    <input type="text" class="input w50" name="name" data-validate="required:请输入商品名称" value="${obj.name}"/>
+                    <input type="text" class="input w50" name="name" data-validate="required:请输入商品名称"
+                           value="${obj.name}"/>
                     <div class="tips"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>商品价格：</label></div>
                 <div class="field">
-                    <input type="text" class="input w50" name="price" data-validate="required:请输入商品价格"  value="${obj.price}"/>
+                    <input type="text" class="input w50" name="price" data-validate="required:请输入商品价格"
+                           value="${obj.price}"/>
                     <div class="tips"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>商品折扣：</label></div>
                 <div class="field">
-                    <input type="text" class="input w50" name="zk" data-validate="required:请输入商品折扣"  value="${obj.zk}"/>
+                    <input type="text" class="input w50" name="zk" data-validate="required:请输入商品折扣"
+                           value="${obj.zk}"/>
                     <div class="tips"></div>
                 </div>
             </div>
@@ -54,50 +57,56 @@
             <div class="form-group">
                 <div class="label"><label>主图：</label></div>
                 <div class="field">
-                    <input type="file" class="input w50" name="file" />
+                    <input type="file" class="input w50" name="file"/>
                     <div class="tips"><img src="${obj.url1}" alt="${obj.url1}"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>副图1：</label></div>
                 <div class="field">
-                    <input type="file" class="input w50" name="file" />
+                    <input type="file" class="input w50" name="file"/>
                     <div class="tips"><img src="${obj.url2}" alt="${obj.url2}"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>副图2：</label></div>
                 <div class="field">
-                    <input type="file" class="input w50" name="file" />
+                    <input type="file" class="input w50" name="file"/>
                     <div class="tips"><img src="${obj.url3}" alt="${obj.url3}"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>副图3：</label></div>
                 <div class="field">
-                    <input type="file" class="input w50" name="file" />
+                    <input type="file" class="input w50" name="file"/>
                     <div class="tips"><img src="${obj.url4}" alt="${obj.url4}"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>副图4：</label></div>
                 <div class="field">
-                    <input type="file" class="input w50" name="file" />
+                    <input type="file" class="input w50" name="file"/>
                     <div class="tips"><img src="${obj.url5}" alt="${obj.url5}"></div>
                 </div>
             </div>
             <div class="form-group">
                 <div class="label"><label>描述：</label></div>
                 <div class="field">
-                    <script type="text/plain" id="remark_txt_1" name="ms" style="width: 100%;height: 300px;">${obj.ms}</script>
+                    <%--                    <script type="text/plain" id="remark_txt_1" name="ms" style="width: 100%;height: 300px;">${obj.ms}</script>--%>
+                    <textarea id="txt_editor"></textarea>
+
+                    <script type="text/javascript">
+                        // 初始化普通文本编辑器
+                        var editor = document.getElementById('txt_editor');
+                    </script>
                     <script type="text/javascript">
                         var editor = UE.getEditor('remark_txt_1');
                         UE.Editor.prototype._bkGetActionUrl = UE.Editor.prototype.getActionUrl;
                         UE.Editor.prototype.getActionUrl = function (action) {
-                            if(action == 'uploadimage' || action == 'uploadscrawl' || action == 'uploadvideo'){
+                            if (action == 'uploadimage' || action == 'uploadscrawl' || action == 'uploadvideo') {
                                 return '${ctx}/ueditor/saveFile';
-                            }else{
-                                return this._bkGetActionUrl.call(this,action);
+                            } else {
+                                return this._bkGetActionUrl.call(this, action);
                             }
                         }
                     </script>

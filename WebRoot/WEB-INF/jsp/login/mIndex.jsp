@@ -36,13 +36,13 @@
             <li><a href="${ctx}/message/findBySql" target="right"><span class="icon-caret-right"></span>留言管理</a> </li>
         </ul>
     </div>
-    <ul class="bread">
-        <li><a href="{:}" target="right" class="icon-home">首页</a> </li>
-        <li><a href="#">网站信息</a> </li>
-        <li><b>当前语言：</b><span style="color:red">中文</span>
-            &nbsp;&nbsp;&nbsp;&nbsp;切换语言：<a href="#">中文</a>&nbsp;&nbsp;<a href="#">英文</a>
-        </li>
-    </ul>
+<%--    <ul class="bread">--%>
+<%--        <li><a href="{:}" target="right" class="icon-home">首页</a> </li>--%>
+<%--        <li><a href="#">网站信息</a> </li>--%>
+<%--        <li><b>当前语言：</b><span style="color:red">中文</span>--%>
+<%--            &nbsp;&nbsp;&nbsp;&nbsp;切换语言：<a href="#">中文</a>&nbsp;&nbsp;<a href="#">英文</a>--%>
+<%--        </li>--%>
+<%--    </ul>--%>
     <div class="admin">
         <iframe name="right" scrolling="auto" frameborder="0" width="100%" height="100%"></iframe>
     </div>

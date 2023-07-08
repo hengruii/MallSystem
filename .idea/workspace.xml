@@ -9,48 +9,22 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp">
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.3.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.4.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/1.5.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.1.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/7.2.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea56bc01b3311ee2e1a093c9cd3eb643e88b860324111e720ede353dd7395b13TB25IbzdR0lpuFjSszdXXcdxFXa_!!856979316.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea5e0f01b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea608001b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea67d301b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/resource/ueditor/upload/fea6a4401b3311ee2e1a093c9cd3eb643e7d94d0324111e720ede353dd7395b10TB2s31Ch5C9MuFjSZFoXXbUzFXa_!!856979316.jpg_400x400.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="184eebdf-2f65-43db-8eb7-dbb0b85f5095" name="Default Changelist" comment="xiugai">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/911fc1ca-fe78-487c-ace8-3653ce8876c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/911fc1ca-fe78-487c-ace8-3653ce8876c3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/classes/com/rg204_3group/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uIndex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/car/car.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/shoplist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/shoplist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/item/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/mIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/mIndex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/res.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/res.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/login/uLogin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/update.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/news/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/jsp/user/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/common/utop.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/common/utop.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/resource/js/jquery-1.11.3/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/resource/js/jquery-1.11.3/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rg204_3group/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rg204_3group/controller/MessageController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,8 +117,8 @@
     &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.40110394&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;627bbc6d00834dae9d8d4388cedfcc5e&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f8ade6c21ddddd6a650084b288a2c139&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -459,6 +433,11 @@
       <workItem from="1688473057964" duration="4188000" />
       <workItem from="1688548100761" duration="4776000" />
       <workItem from="1688561927522" duration="277000" />
+      <workItem from="1688625232606" duration="5768000" />
+      <workItem from="1688706385407" duration="818000" />
+      <workItem from="1688710794235" duration="26015000" />
+      <workItem from="1688773754204" duration="4153000" />
+      <workItem from="1688790120111" duration="774000" />
     </task>
     <task id="LOCAL-00001" summary="前端">
       <option name="closed" value="true" />
@@ -503,13 +482,41 @@
       <option name="project" value="LOCAL" />
       <updated>1688562729643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="xiugai">
+      <option name="closed" value="true" />
+      <created>1688566432190</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688566432190</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feixi" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -525,7 +532,8 @@
     <MESSAGE value="前端" />
     <MESSAGE value="ava" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;WebRoot/WEB-INF/jsp/login/uLogin.jsp" />
+    <MESSAGE value="xiugai" />
+    <option name="LAST_COMMIT_MESSAGE" value="xiugai" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
